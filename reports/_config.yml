@@ -11,8 +11,8 @@ author: Carlos van der Ley
 sphinx:
   config:
     latex_logo: 'figures/logo_png.png'
-  extra_extensions:
-    - sphinx_inline_tabs
+  # extra_extensions:
+    # - sphinx_inline_tabs
 
 
 # Force re-execution of notebooks on each build.

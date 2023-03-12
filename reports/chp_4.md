@@ -13,7 +13,7 @@ import shutil
 
 ```
 
-# Chapter C
+# Chapter D
 
 This is a small sample book to give you a feel for how book content is
 structured.

@@ -1,25 +1,9 @@
-```python
-import os
-import shutil
+# Goal
 
-   # Get the list of all files and directories
-    dir_notes = "notebooks"
-    files = os.listdir(dir_notes)
-    files = [f for f in files if os.path.isfile(dir_notes+'/'+f)] #Filtering only the files.
-    files.pop(0)
-    # print(files)
-    for item in files:
-        shutil.copy(item, "reports")
+This analysis sheds light on one particular solution, out of many, that can potentially improve our justice system. American Criminal Justice is a giant puzzle. Like many other puzzles, it is possible to start anywhere –pick a piece randomly, but it can take longer, and we might lose track and motivation to solve it. 
 
-```
+One potential solution is reducing arrests for non-violent crimes, which might be achieved through funding community-based alternatives to policing and criminalization. For example, this possible solution could involve adopting alternative forms of punishment for non-violent offenders, such as community services, restitution, increase access to mental health and drug abuse treatment, affordable housing, and job training programs, which can address the core of many crimes and lessen the need for law enforcement engagement.  Additionally, investing in social programs that give education and other assistance to families and persons who have been imprisoned can help minimize recidivism and encourage and improve rehabilitation.
 
-# Chapter A
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
-
-Check out the content pages bundled with this sample book to see more.
 
 

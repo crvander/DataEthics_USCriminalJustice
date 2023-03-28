@@ -1,24 +1,9 @@
-```python
-import os
-import shutil
+# Increased Justice
 
-   # Get the list of all files and directories
-    dir_notes = "notebooks"
-    files = os.listdir(dir_notes)
-    files = [f for f in files if os.path.isfile(dir_notes+'/'+f)] #Filtering only the files.
-    files.pop(0)
-    # print(files)
-    for item in files:
-        shutil.copy(item, "reports")
+### Identifying the need for new laws
 
-```
+Using the analysis in a proper context will assist in evaluating and identifying gaps or flaws in current laws that might have been contributing to non-violent crimes and are no longer adequate to cover them, allowing policymakers and community members to implement new policies or amend the existing ones to be more effective to their needs, eliminating the gaps, and maximizing the positive impact on society.
 
-# Chapter H
+### Ensuring fairness and equity
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
-
-Check out the content pages bundled with this sample book to see more.
-
+Developing new laws or amending the existing ones in a fair and just way, based on data, will ensure that all individuals, especially those vulnerable and marginalized ones, will have the same resources and opportunities. Also, better allocation of resources, such as socio-economic or social programs, will prevent or decrease non-violent crime rates.

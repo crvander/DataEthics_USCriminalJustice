@@ -1,26 +1,12 @@
-```python
-import os
-import shutil
+# The American Criminal Justice
+### The burden
 
-   # Get the list of all files and directories
-    dir_notes = "notebooks"
-    files = os.listdir(dir_notes)
-    files = [f for f in files if os.path.isfile(dir_notes+'/'+f)] #Filtering only the files.
-    files.pop(0)
-    # print(files)
-    for item in files:
-        shutil.copy(item, "reports")
+The American criminal justice system is a web of tangled, complicated, and non-isolated problems that burden taxpayers to a government institution, creating a compelling need for policy reform. Even though US incarceration has the lowest rate since 1995, it still has the largest incarcerated population in the world[1], with an unbalanced tendency towards vulnerable and marginalized communities. Due to its complexity, no single solution will solve all of the American Criminal Justice puzzles. However, several adjustments might be implemented to improve the Criminal system overall.
 
-```
 
-# Welcome to your Jupyter Book
+<!-- [^1]: According to published [data]<https://bjs.ojp.gov/sites/g/files/xyckuh236/files/media/document/cpus19st.pdf>from the Bureau of Justice Statistics (BJS), the statistical arm of the Department of Justice. -->
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+[^1]: According to published data from the Bureau of Justice Statistics (BJS), the statistical arm of the Department of Justice.
 
-Check out the content pages bundled with this sample book to see more.
-
-```{tableofcontents} 
-```
+<!-- ```{tableofcontents} 
+``` -->

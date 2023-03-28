@@ -3,6 +3,7 @@
 ### Goal
 This analysis sheds light on one particular solution, out of many, that can potentially improve our justice system. American Criminal Justice is a giant puzzle. Like many other puzzles, it is possible to start anywhere –pick a piece randomly, but it can take longer, and we might lose track and motivation to solve it.
 
+```
 ├── Intro
 ├── The Goal
 ├── Data
@@ -23,3 +24,4 @@ This analysis sheds light on one particular solution, out of many, that can pote
     ├── New source or quality issues
     ├── Changing policies
     └── New analysis methods
+```

@@ -1,4 +1,4 @@
-# Enhancing Data Ethics in American Criminal Justice
+# Data Ethics in American Criminal Justice
 ### The burden
 
 The American criminal justice system is a web of tangled, complicated, and non-isolated problems that burden taxpayers to a government institution, creating a compelling need for policy reform. Even though US incarceration has the lowest rate since 1995, it still has the largest incarcerated population in the world[^1], with an unbalanced tendency towards vulnerable and marginalized communities. Due to its complexity, no single solution will solve all of the American Criminal Justice puzzles. However, several adjustments might be implemented to improve the Criminal system overall.
